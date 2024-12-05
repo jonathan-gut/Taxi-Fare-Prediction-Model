@@ -13,8 +13,7 @@ This project aims to predict taxi fares in New York City using machine learning 
 5. [Methodology](#methodology)
 6. [Experiments and Evaluation](#experiments-and-evaluation)
 7. [Visualizations and Insights](#visualizations-and-insights)
-8. [Future Work](#future-work)
-9. [How to Run](#how-to-run)
+
 
 ## Introduction
 This project explores spatial and temporal factors influencing NYC taxi fares and implements a neural network to predict fare amounts. The findings provide actionable insights for improving ride-hailing services, such as optimizing driver allocation, pricing strategies, and better service distribution across boroughs.
