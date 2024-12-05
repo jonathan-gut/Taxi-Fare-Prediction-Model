@@ -1,5 +1,8 @@
 # NYC Taxi Fare Prediction
 
+[Code + Interactive Map]([Jonathan Kennel](https://colab.research.google.com/drive/1NbVej17dU3F77fUJUSgj78Tpevp0h7In?usp=sharing))
+
+
 This project was a collaborative effort between the two contributors. Special thanks to  [Jonathan Kennel](https://github.com/jonathankennel) for contributions to data preprocessing, exploratory data analysis, and feature engineering.
 
 ## Project Overview
