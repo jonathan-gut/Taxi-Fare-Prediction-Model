@@ -3,7 +3,7 @@
 [Code + Interactive Map](https://colab.research.google.com/drive/1NbVej17dU3F77fUJUSgj78Tpevp0h7In?usp=sharing)
 
 
-This project was a collaborative effort between the two contributors. Special thanks to  [Jonathan Kennel](https://github.com/jonathankennel) for contributions to data preprocessing, exploratory data analysis, and feature engineering.
+Special thanks to  [Jonathan Kennel](https://github.com/jonathankennel) for contributions to data preprocessing, exploratory data analysis, and feature engineering.
 
 ## Project Overview
 This project aims to predict taxi fares in New York City using machine learning techniques. The NYC Taxi Fare Prediction Dataset, consisting of over 55 million trip records from 2009 to 2015, was used to build and evaluate a neural network model. The dataset includes essential features such as pickup and drop-off coordinates, timestamps, and fare amounts, making it ideal for analyzing urban transportation patterns and implementing predictive models.
